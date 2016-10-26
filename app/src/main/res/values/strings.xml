@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="email">Ingrese su email</string>
+    <string name="password">Ingrese su password</string>
+    <string name="register">Registrar</string>
+    <string name="sign">Already Registered? Sign in here</string>
+</resources>
